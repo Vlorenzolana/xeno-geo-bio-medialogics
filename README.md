@@ -1,2 +1,37 @@
-# xeno-geo-bio-medialogics
-Xeno-geo-bio-medialogics by Raphaëlle Mueller &amp; Vanessa Lorenzo   Within the framework of activities related to the exhibition Sèmiosphère du commun - Biotope I proposed by Utopiana Geneva at the BAC, our intervention consists in a mediatic approach to polluted sites with a common factor in dialogue between two cases studies: the alienation of ecosystems with heavy metals and potential increase of radioactivity due to the production of Aluminum, a catalyst of chemical reactions, warfare and ecocidal economic development. On one hand the invisible pollution led by mercury infiltrating since decades the soil and waters one of the most important rivers in Europe, the Rhône. On the other hand a spectacular (but still hidden) red lake of dumped bauxite waste situated in Romania.   Besides, our mini-laboratory is part of our ongoing transdisciplinary research approach towards a better understanding of the materiality of the Anthropocene. Our explorations/excavations aim at the apprehension and understanding of the toxic materiality of the Anthropocene and the attempt to forge new interspecies and inter-media links. With the acceptance of the term Anthropocene, we imply that the anthropogenic action on nature is shaping a new form of aesthetic, an aesthetic of pollution and toxicity. If we consider industrial production as a violence done to Earth, we have to challenge the notion of harm and the feedback mechanisms that triggers off. In a forensic jargon, data is meant to be  a trace of evidence. However, data is provided by the technospheric apparatus that governs us humans on a semiotic level. It filters out a wider range of interpretations triggering the question of what is being left out. We urge new tools and protocols to trace new evidences of harm.   Moreover, the ensemble of human and nonhuman species of the alienated ecosystem can be considered at each level as a witness. By knitting cybernetic arrays with scientific processes, we extract, plot and render information from the resisting ecosystem and the set of bodies that inhabits it. Following protocols such as water and soil sampling, microbe culturing, chromatography, etc., we reach to allow biological and geological matter to interfere us and question the grounds of our notion of materiality considering media beyond the play of semiotic interpretations and modes of representation.   Samples to analyse: Red mud, soil, water, moss.  Performed protocols: Data gathering with Jacques Falquet, radioactivity exploration with Oliver Keller (to be confirmed), bioreporters with Sachiko Hirosue.  Expected results: Set of chromatographies, local microbe cultures on petri dishes, mercury detection on water samples that will be translated into drops of black ink in the glass tank, sonification of red mud, discussions about the results.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Vlorenzolana/xeno-geo-bio-medialogics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vlorenzolana/xeno-geo-bio-medialogics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
